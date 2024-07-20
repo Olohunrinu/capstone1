@@ -1,0 +1,25 @@
+table,th,td{
+    border: 2px solid;
+    /* border-style: ridge; */
+    border-collapse: collapse;
+}
+
+tbody{
+    border-collapse: collapse;
+}
+
+.mine{
+    border: none;
+}
+
+.pine{
+    border: none;
+}
+
+#spin{
+    background-color: blueviolet;
+}
+
+#splin{
+    background-color: orangered;
+}
