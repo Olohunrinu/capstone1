@@ -20,6 +20,17 @@ tbody{
     background-color: blueviolet;
 }
 
-#splin{
+/* #splin{
     background-color: orangered;
+}
+#spin .strike{
+    color: red;
+} */
+
+h3{
+    font-family: "Caveat", cursive;
+}
+
+li{
+    display: inline-block;
 }
