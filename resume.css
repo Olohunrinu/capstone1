@@ -34,3 +34,29 @@ h3{
 li{
     display: inline-block;
 }
+
+.papillo{
+    height: 250px;
+    width: 50px;
+    display: flex;
+    /* flex-direction: column; */
+}
+
+#wasebobo{
+    height: 250px;
+    width: 50px;
+    display: flex;
+    /* flex-direction: column-reverse; */
+}
+p{
+    padding: 15px;
+    margin: 10px;
+    font:  bold 25px Times serif;
+    font-family: "Caveat", cursive;
+
+    color: blue;
+
+}
+li{
+    display: inline;
+}
